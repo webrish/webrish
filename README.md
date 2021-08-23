@@ -6,7 +6,7 @@ A Full Stack Web developer🎯 from India.
 - 📫 How to reach me rishwebd@gmail.com
 
 Languages:
-HTML, CSS, JavaScript, NodeJS, ReactJS
+HTML, CSS, JavaScript, NodeJS, ReactJS, Angular
 
       
 <!---
